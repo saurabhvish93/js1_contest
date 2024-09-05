@@ -1,0 +1,10 @@
+body {
+     background-color: rgb(236, 227, 227);
+}
+#btn1 {
+   margin-top: 20px;
+   padding: 8px 20px;
+   text-align: center;
+   background-color: rgba(179, 106, 106, 0.973);
+   box-shadow : none;
+}
